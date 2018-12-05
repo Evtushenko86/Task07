@@ -1,0 +1,8 @@
+vasya petya 200
+petya tanya 300
+tanya nina 400
+nina kuzya 500
+vasya kuzya 300
+petya kuzya 400
+tanya kuzya 400
+nina kuzya 400
